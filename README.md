@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Programming Languages**
 
-- 💬 Ask me about **JavaScript.**
+- 💬 Ask me about **Front-End.**
 
 - 📫 How to reach me **sukant.shm@gmail.com**
 
