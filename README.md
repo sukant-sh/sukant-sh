@@ -14,7 +14,7 @@
 - 💬 Ask me about **JavaScript.**
 
 - 📫 How to reach me **sukant.shm@gmail.com**
-- 
+
 - ⚡ let funFact: "I use tabs over spaces"
 
 - 📄 Know about my experiences [https://internshala.com/student/resume?detail_source=resume_direct](https://internshala.com/student/resume?detail_source=resume_direct)
